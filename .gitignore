@@ -1,0 +1,25 @@
+# Ignore the .env file with environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore the env_variables.txt file
+env_variables.txt
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
